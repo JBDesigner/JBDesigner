@@ -1,6 +1,6 @@
 # 👋 Salut, je suis Jimmy
 
-💻 Développeur Web passionné, spécialisé en **Vue.js**, **React.js**, **Djnago** et la création d’applications modernes.  
+💻 Développeur Web passionné, spécialisé en **Vue.js**, **React.js**, **Django** et la création d’applications modernes.  
 🚀 Je travaille sur des projets frontend & backend et j’aime apprendre de nouvelles technologies.  
 
 ---
