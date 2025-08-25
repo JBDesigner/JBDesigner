@@ -3,6 +3,16 @@
 💻 Passionate Web Developer, specialized in **Vue.js**, **React.js**, **Django**, and building modern applications.  
 🚀 I work on both frontend & backend projects and I love learning new technologies.  
 
+
+---
+
+### 🌐 Find me
+
+- 🌍 [Portfolio](https://jb-designer-porfolio.vercel.app/)
+- 🦊 [GitLab](https://gitlab.com/jimmybrand95)   
+- 💼 [LinkedIn](https://www.linkedin.com/in/jimmy-brand-4a1604256/)  
+- ✉️ [Email](mailto:jimmybrand95@gmail.com)
+
 ---
 
 ### 🛠️ Skills & Technologies
@@ -37,14 +47,6 @@
 ![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBDesigner&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBDesigner&layout=compact&theme=radical)
-
----
-
-### 🌐 Find me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/jimmy-brand-4a1604256/)  
-- 🌍 [Portfolio](https://jb-designer-porfolio.vercel.app/)  
-- ✉️ [Email](mailto:jimmybrand95@gmail.com)  
 
 ---
 
