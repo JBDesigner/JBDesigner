@@ -1,20 +1,38 @@
-# 👋 Salut, je suis Jimmy
+# 👋 Hi, I'm Jimmy
 
-💻 Développeur Web passionné, spécialisé en **Vue.js**, **React.js**, **Django** et la création d’applications modernes.  
-🚀 Je travaille sur des projets frontend & backend et j’aime apprendre de nouvelles technologies.  
+💻 Passionate Web Developer, specialized in **Vue.js**, **React.js**, **Django**, and building modern applications.  
+🚀 I work on both frontend & backend projects and I love learning new technologies.  
 
 ---
 
-### 🛠️ Compétences & Technologies
+### 🛠️ Skills & Technologies
 
+**Frontend**
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Database**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Version Control & CI/CD**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+**Design & Multimedia**
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
 
 ---
-### 📊 Statistiques GitHub
+
+### 📊 GitHub Stats
 
 ![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBDesigner&show_icons=true&theme=radical)
 
@@ -22,12 +40,12 @@
 
 ---
 
-### 🌐 Me retrouver
+### 🌐 Find me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jimmy-brand-4a1604256/)  
 - 🌍 [Portfolio](https://jb-designer-porfolio.vercel.app/)  
-- ✉️ [Email](jimmybrand95@gmail.com)
+- ✉️ [Email](mailto:jimmybrand95@gmail.com)  
 
 ---
-✨ *Merci de visiter mon profil !*
 
+✨ *Thanks for visiting my profile!*
