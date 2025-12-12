@@ -42,12 +42,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBDesigner&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBDesigner&layout=compact&theme=radical)
-
----
-
 ✨ *Thanks for visiting my profile!*
