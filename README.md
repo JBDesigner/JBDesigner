@@ -50,4 +50,15 @@
 
 ---
 
-✨ *Thanks for visiting my profile!*
+### 🧠 Philosophy
+
+```ts
+const philosophy: string =
+  "Step by step, we’ll get there — consistency beats speed";
+
+// — JBDesigner
+ ```
+
+<p align="center">
+  ✨ <i>Thanks for visiting my profile!</i>
+</p>
